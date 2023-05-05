@@ -12,7 +12,7 @@ if r>=80:
 elif 60<=r<80:
     print("Gread B")
 elif 50<=r<60:
-    print("Gread C")
+    print("Gread R")
 else:
     print("Gread G")        
         
