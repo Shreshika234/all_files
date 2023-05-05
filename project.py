@@ -1,0 +1,1 @@
+f= open("Python_notes.odt","rt")
